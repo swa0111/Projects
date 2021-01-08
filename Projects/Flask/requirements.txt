@@ -1,0 +1,4 @@
+flask
+joblib
+tweepy
+pandas
